@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Yasmin, a front-end developer based in Mato Grosso, Brazil. I specialize in building modern, responsive, and accessible web interfaces using technologies such as HTML, CSS, JavaScript, and React.<br><br>Driven by curiosity and a strong commitment to quality, I continuously seek to enhance my technical skills and stay current with the latest trends in web development. My focus is on delivering clean, efficient, and user-centered digital solutions. 👩🏻‍💻</p>
+<p align="left">I'm Yasmin, a junior front-end developer based in Mato Grosso, Brazil. I specialize in building modern, responsive, and accessible web interfaces using technologies such as HTML, CSS, JavaScript, and React.<br><br>Driven by curiosity and a strong commitment to quality, I continuously seek to enhance my technical skills and stay current with the latest trends in web development. My focus is on delivering clean, efficient, and user-centered digital solutions. 👩🏻‍💻</p>
 
 ###
 
